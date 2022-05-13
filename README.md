@@ -26,7 +26,7 @@ Nous proposons ainsi de comparer et d’évaluer les modèles d’apprentissage 
 Dataset : 
 
 VQA-Med : un ensemble de training de 3 200 images médicales avec 12 792 paires de questions-réponses (AQ), un ensemble de validation de 500 images médicales avec 2 000 paires d'AQ et un ensemble de test de 500 images médicales avec 500 questions. 
-Lien dataset : https://github.com/abachaa/VQA-Me
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
